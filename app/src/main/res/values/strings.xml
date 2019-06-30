@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">DovizApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="dialogBaslik">Yükleniyor...</string>
+    <string name="dialogMesaj">Lütfen Bekleyin</string>
+    <string name="dialogUyarı">Uyarı</string>
+    <string name="dialogEkle">Seçtiğiniz Para Birimi Listenize Eklenecek Ve Ana Sayfada Görünecek</string>
+    <string name="dialogSil">Seçtiğiniz Para Birimi Listenizden Silinecek Ve Ana Sayfada Görünmeyecek</string>
+    <string name="dialogBtnTmm">Tamam</string>
+    <string name="dialogBtnIptal">İptal</string>
+    <string name="toasKayitBasarili">Kayıt İşlemi Başarılı</string>
+    <string name="toasSilmebasarili">Silme İşelmi Başarılı</string>
+    <string name="toaslisteBos">Liste Bos Lütfen Portföyünüzü doldurunuz</string>
+    <string name="tvcode">Code:</string>
+    <string name="tvname">Name:</string>
+    <string name="tvbugunendusuk">3)Bu Gün En Düşük Alış:</string>
+    <string name="tvbugunenyuksek">4)Bu Gün En Yüksek Alış:</string>
+    <string name="tvbugunendusuksatis">5)Bu Gün En Düşük Satış:</string>
+    <string name="tvbugunenyukseksatis">6)Bu Gün En Yüksek Satış:</string>
+    <string name="tvduncapanisalis">7)Gün Sonu Alış:</string>
+    <string name="tvgunsonukapanis" >8)Gün Sonu Satış:</string>
+    <string name="tvbugunalis">1)Bu Gun Alış:</string>
+    <string name="tvbugunsatis">2)Bu Gün Satış:</string>
+    <string name="tvgunlukdegisim">Günlük Değişim:</string>
+    <string name="tvgunlukdegisimyüzde">Günlük Değişim Yüzde:</string>
+    <string name="tvtarih">Son Güncellenme Tarih:</string>
+
+</resources>
